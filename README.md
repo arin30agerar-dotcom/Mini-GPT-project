@@ -86,7 +86,7 @@ The model learns character patterns and generates similar structured responses.
 
 Location:
 ```
-Data/input.txt
+data/input.txt
 ```
 
 ---
