@@ -51,7 +51,7 @@ Mini-GPT-project/
 ├── mini_gpt_Arin_Malav.ipynb   # Main implementation
 ├── README.md                   # Project documentation
 │
-├── Data/
+├── data/
 │   └── input.txt               # Training dataset
 │
 ├── assets/
